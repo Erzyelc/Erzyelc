@@ -8,4 +8,4 @@
 
 
 ## Connect with me:
-[![linkedin](https://skillicons.dev/icons?i=linkedin)]([https://ryanjcarpenter](https://www.linkedin.com/in/ryanjcarpenter/)https://www.linkedin.com/in/ryanjcarpenter/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryanjcarpenter)
