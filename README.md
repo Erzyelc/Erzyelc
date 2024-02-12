@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan Carpenter
+## 👋 Hi, I’m Ryan Carpenter
 - Check out my portfolio (https://www.ryanjcarpenter.com/)
 
 
